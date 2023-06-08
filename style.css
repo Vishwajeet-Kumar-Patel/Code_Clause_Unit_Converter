@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: 80px;
+    font-size: 50px;
+    font-family: sans-serif;
+    background-color: bisque;
+}
+
+p{
+    font-weight: 8000;
+    font-size: 80px;
+    font-style: italic;
+    background-color: aqua;
+}
+
+div{
+    background-color: aliceblue;
+}
+
+.h1{
+    background-color: coral; 
+}
+
+select:not(:-internal-list-box) {
+    overflow: visible !important;
+    block-size: 50px;
+}    
+
+footer{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
